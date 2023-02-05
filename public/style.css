@@ -316,6 +316,7 @@ a {
     
     .bg-image {
         overflow-x: hidden;
+        background-position: 60% 40%;
     }
 }
 
