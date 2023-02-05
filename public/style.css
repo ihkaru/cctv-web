@@ -63,8 +63,8 @@ a {
     background-image: url(image/banner.jpg);
     background-size: cover;
     background-position: center;
-    padding: 500px 0 0 0;
-    position: static;
+    padding: 300px 0 0 0;
+    position: relative;
 }
 
 .banner-overlay {
