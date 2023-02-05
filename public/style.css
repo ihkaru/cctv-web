@@ -64,11 +64,11 @@ a {
     background-size: cover;
     background-position: center;
     padding: 300px 0 0 0;
-    position: static;
+    position: relative;
 }
 
 .banner-overlay {
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 
@@ -76,7 +76,7 @@ a {
 
 
 .my-hr {
-    width: 150px;
+    width: 300px;
     border-top: 4px solid #00AF80;
     opacity: 1;
     margin: auto;
@@ -125,11 +125,11 @@ a {
 
 .btn-two {
     background-color: #00AF80;
-    padding: 18px 45px;
+    padding: 10px 45px;
     color: #fff;
     text-decoration: none;
     border-radius: 8px;
-    transition: 0.3s;
+    transition: 0.4s;
     font-weight: 800;
     font-size: 20px;
     text-transform: uppercase;
@@ -275,7 +275,7 @@ a {
 .spell-one{
     position: absolute;
    color: white;
-    text-align: center;
+    text-align: left;
     margin-left: 300px;
     margin-bottom: 600px;
 }
