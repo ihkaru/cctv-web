@@ -68,7 +68,7 @@ a {
 }
 
 .banner-overlay {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.4);
 }
 
 
@@ -275,7 +275,7 @@ a {
 .spell-one{
     position: absolute;
    color: white;
-    text-align: left;
+    text-align: center;
     margin-left: 300px;
     margin-bottom: 600px;
 }
