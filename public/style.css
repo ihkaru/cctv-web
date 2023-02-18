@@ -165,7 +165,7 @@ a {
 }
 
 .bg-aku {
-    background: rgba(55, 108, 94, 0.65) url(image/10familly.jpg);
+    background: rgba(550, 108, 94, 0.65) url(image/bg-baru.jpg);
     background-size: cover;
     background-blend-mode: overlay;
     background-repeat: no-repeat;
